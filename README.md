@@ -4,31 +4,37 @@ This is an plugin to the beginners. Here we can customise the  scroll top conten
 
 # Insatallation Guide:
 
-Basic Setup:
+### Basic Setup:
+```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="scrollToTop.js"></script>
+```
 
-HTML Mocup:
+### HTML Mocup:
+```
 <div class="scroll"></div>
+```
 
-Jquery:
+### Jquery:
 ```javascript
 $('.scroll').scrollToTop();
-
-Jquery Settings:
-	$('.scroll').scrollToTop({
-		color: "yellow",
-		backgroundColor:"#fff",
-		svg: {
-		      fill: "#C80C17"
-	       },
-		animation: {
-			          scrollPosition: "150",
-		            speed: "speed"
-		          }
-	});
 ```
-Jquery settings properties:
+
+### Jquery Settings:
+```javascript
+$('.scroll').scrollToTop({
+	color: "yellow",
+	backgroundColor:"#fff",
+	svg: {
+		fill: "#C80C17"
+	     },
+	animation: {
+		scrollPosition: "150",
+		speed: "speed"
+		}
+});
+```
+### Jquery settings properties:
 1. color
 2. backgroundColor
 3. svg:
@@ -41,4 +47,4 @@ Jquery settings properties:
 
 working in progress, you may expect more customization sooner. 
 
-Thank you,
+## Thank you,
