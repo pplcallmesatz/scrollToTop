@@ -12,6 +12,7 @@ HTML Mocup:
 <div class="scroll"></div>
 
 Jquery:
+```javascript
 $('.scroll').scrollToTop();
 
 Jquery Settings:
@@ -26,7 +27,7 @@ Jquery Settings:
 		            speed: "speed"
 		          }
 	});
-
+```
 Jquery settings properties:
 1. color
 2. backgroundColor
