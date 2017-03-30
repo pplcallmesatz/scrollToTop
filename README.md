@@ -1,6 +1,5 @@
 # scrollToTop
-This is an plugin to the beginners. Here we can customise the  scroll top content. Now it is in initial stage.
-
+Everyday scrolling on long pages can be a tiring experience specially on those sites which provides infinite scrolling (like facebook, twitter, Google+, etc). You will keep scrolling using your mouse to see more and more updates and then when you want to go up to the top of the page, you might move your hand from your mouse to keyboard to search for Home key or you will drag the scroll bar to the top.
 
 # Insatallation Guide:
 
