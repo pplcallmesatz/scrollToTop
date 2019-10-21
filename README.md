@@ -9,7 +9,7 @@ Everyday scrolling on long pages can be a tiring experience specially on those s
 <script src="scrollToTop.js"></script>
 ```
 
-### HTML Mocup:
+### HTML Mockup:
 ```
 <div class="scroll"></div>
 ```
